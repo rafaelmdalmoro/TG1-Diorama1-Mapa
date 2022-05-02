@@ -1,0 +1,2 @@
+# TG1-Diorama1-Mapa
+Diorama Educacional Interativo desenvolvido para a disciplina Projeto de Graduação I da Universidade de Brasília. O Protótipo consiste em um mapa-múndi gravado a laser em uma placa de MDF 3mm integrado a um sistema de fita de LEDs controlado por um Arduino acionado via aplicativo de celular. A partir deste dispositivo, é possível desenvolver diversas práticas pedagógicas relacionando os LEDs endereçáveis com pontos espaciais de interesse.
