@@ -33,13 +33,13 @@ Conforme ilustrado na figura acima, é possível utilizar a matriz de LEDs para 
 * tubo termorretrátil
 * fita isolante
 
-#Código
+## Código
 O Código está disponível na seção de ["Código"](https://github.com/rafaelmdalmoro/TG1-Diorama1-Mapa/tree/main/Codigo) deste repositório.
 
-#Recursos Gráficos
+## Recursos Gráficos
 Os materiais para impressão e gravação à laser estão anexados na pasta  ["Recursos"](https://github.com/rafaelmdalmoro/TG1-Diorama1-Mapa/tree/main/Recursos)
 
-#Aplicativo
+## Aplicativo
 Você pode baixar o app de controle em  https://gallery.appinventor.mit.edu/?galleryid=d929ec9e-a3fe-40ac-9fc3-0c62eeb87b47
 
 Última atualização - 4 de maio de 2022
