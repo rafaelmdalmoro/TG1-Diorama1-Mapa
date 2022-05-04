@@ -34,9 +34,9 @@ Conforme ilustrado na figura acima, é possível utilizar a matriz de LEDs para 
 * fita isolante
 
 ##Código
-O Código está disponível na seção de ["Código"](https://github.com/rafaelmdalmoro/TG1-Diorama1-Mapa/Codigo) deste repositório.
+O Código está disponível na seção de ["Código"](https://github.com/rafaelmdalmoro/TG1-Diorama1-Mapa/tree/main/Codigo) deste repositório.
 
 ##Recursos Gráficos
-Os materiais para impressão e gravação à laser estão anexados na pasta  ["Recursos"](https://github.com/rafaelmdalmoro/TG1-Diorama1-Mapa/Recursos)
+Os materiais para impressão e gravação à laser estão anexados na pasta  ["Recursos"](https://github.com/rafaelmdalmoro/TG1-Diorama1-Mapa/tree/main/Recursos)
 
 Última atualização - 3 de maio de 2022
