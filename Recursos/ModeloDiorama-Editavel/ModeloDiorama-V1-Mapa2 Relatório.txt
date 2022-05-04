@@ -1,0 +1,41 @@
+Relatório de pacote
+
+-----------------------------------------------------------------------------
+Documento:
+Nome: ModeloDiorama-V1-Mapa2.ai
+Modo de cor: Cor RGB
+Perfil de cor: sRGB IEC61966-2.1
+Unidades da régua: milímetros
+Dimensões da prancheta: 292 mm x 580 mm
+Mostrar imagens no modo de contorno: DESATIVADO
+Realçar fontes substituídas: DESATIVADO
+Realçar glifos substituídos: DESATIVADO
+Preservar capacidade de edição do texto
+Simular papel colorido: DESATIVADO
+
+-----------------------------------------------------------------------------
+Objetos de cor especial:
+
+-----------------------------------------------------------------------------
+Fontes ausentes:NENHUM
+
+-----------------------------------------------------------------------------
+Fontes protegidas que não foram empacotadas:NENHUM
+
+-----------------------------------------------------------------------------
+Fontes:
+NENHUM
+
+-----------------------------------------------------------------------------
+Fontes incorporadas:
+NENHUM
+
+-----------------------------------------------------------------------------
+Vínculos ausentes:
+NENHUM
+
+-----------------------------------------------------------------------------
+Imagens vinculadas:
+
+C:\Users\rafam\Downloads\vecteezy_human-brain-mental-health-care-symbol_1890135\3284_R1NUIENBTSA2MTUtMDM.eps
+Tipo: EPS
