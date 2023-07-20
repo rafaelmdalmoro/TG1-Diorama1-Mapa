@@ -45,6 +45,8 @@ O código de emergência permite controlar o projeto via cabo, por comunicação
 ## Recursos Gráficos
 Os materiais para impressão e gravação à laser estão anexados na pasta  ["Recursos"](https://github.com/rafaelmdalmoro/TG1-Diorama1-Mapa/tree/main/Recursos)
 
+Imagens usadas nos mapas inspiradas em arquivos e modelo de https://freepik.com
+
 ## Aplicativo
 Você pode baixar o app de controle em  https://gallery.appinventor.mit.edu/?galleryid=d929ec9e-a3fe-40ac-9fc3-0c62eeb87b47
 
