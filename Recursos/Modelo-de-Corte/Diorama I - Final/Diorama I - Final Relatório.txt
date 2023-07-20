@@ -2,11 +2,11 @@ Relatório de pacote
 
 -----------------------------------------------------------------------------
 Documento:
-Nome: ModeloDiorama-V1-Mapa2.ai
-Modo de cor: Cor RGB
-Perfil de cor: sRGB IEC61966-2.1
+Nome: Diorama I - Final.ai
+Modo de cor: Cor CMYK
+Perfil de cor: nenhum
 Unidades da régua: milímetros
-Dimensões da prancheta: 292 mm x 580 mm
+Dimensões da prancheta: 1658,624 mm x 291,5893 mm
 Mostrar imagens no modo de contorno: DESATIVADO
 Realçar fontes substituídas: DESATIVADO
 Realçar glifos substituídos: DESATIVADO
@@ -24,7 +24,7 @@ Fontes protegidas que não foram empacotadas:NENHUM
 
 -----------------------------------------------------------------------------
 Fontes:
-NENHUM
+Myriad Pro (OTF)
 
 -----------------------------------------------------------------------------
 Fontes incorporadas:
@@ -36,6 +36,4 @@ NENHUM
 
 -----------------------------------------------------------------------------
 Imagens vinculadas:
-
-C:\Users\rafam\Downloads\vecteezy_human-brain-mental-health-care-symbol_1890135\3284_R1NUIENBTSA2MTUtMDM.eps
-Tipo: EPS
+NENHUM

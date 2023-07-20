@@ -6,19 +6,23 @@ Foi desenvolvido, como proposta de Diorama Modelo, um mapa-múndi gravado a lase
 
 O modelo ilustrado pela figura apresenta sessenta LEDs RGB endereçáveis posicionados em coordenadas geográficas estratégicas. A seguir, é possível observar os resultados da implementação do protótipo.
 
-![Protótipo do Mapa I do Diorama](./Imagens/MapaMundi-V1.jpg)
+![Protótipo do Mapa I do Diorama](./Imagens/DioramaI.jpg)
 
 O diorama foi planejado para promover atividades educacionais que explorassem conteúdos importantes de geografia, como a cartografia, os pontos cardeais e a localização espacial por meio de coordenadas. Professor e alunos podem controlar o acionamento dos LEDs por meio de um aplicativo personalizado que se comunica com a solução por meio de comunicação Bluetooth.
 
 ![Tela App de Controle Mapa I](./Imagens/TelaMapa-App.jpeg)
 
-Por meio desta interação via \emph{smartphone}, é possível reaproveitar a matriz de LEDs e construir novos mapas para um mesmo diorama. Para tanto, basta imprimir um novo diagrama alinhado à matriz citada. Essa funcionalidade está demonstrada nas figuras a seguir:
+Por meio desta interação via \emph{smartphone}, é possível reaproveitar a matriz de LEDs e construir novos mapas para um mesmo diorama. Para tanto, basta imprimir um novo mapa alinhado à matriz citada. Essa funcionalidade está demonstrada nas figuras a seguir:
 
 ![Modelo do Mapa II do Diorama](./Imagens/Mapa2.png)
 
 Conforme ilustrado na figura acima, é possível utilizar a matriz de LEDs para outras aplicações além da geografia, como o estudo da propagação do impulso nervoso. Para cada nova abordagem implementada, também é possível personalizar a aplicação \emph{mobile}.
 
 ![Tela App de Controle Mapa I](./Imagens/Mapa2-App.jpeg)
+
+O último mapa desenvolvido foi para a disciplina de Língua Portuguesa. Aqui, os alunos devem tentar pontuar corretamente a palavra montada. O professor controla o app e mostra a resposta ao final da atividade.
+
+![Tela App de Controle Mapa I](./Imagens/Mapa3.png)
 
 ## Materiais Utilizados
 * Arduino Uno 
@@ -35,6 +39,8 @@ Conforme ilustrado na figura acima, é possível utilizar a matriz de LEDs para 
 
 ## Código
 O Código está disponível na seção de ["Código"](https://github.com/rafaelmdalmoro/TG1-Diorama1-Mapa/tree/main/Codigo) deste repositório.
+
+O código de emergência permite controlar o projeto via cabo, por comunicação Serial com o Arduino.
 
 ## Recursos Gráficos
 Os materiais para impressão e gravação à laser estão anexados na pasta  ["Recursos"](https://github.com/rafaelmdalmoro/TG1-Diorama1-Mapa/tree/main/Recursos)

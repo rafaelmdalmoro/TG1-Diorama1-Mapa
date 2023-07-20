@@ -1,0 +1,41 @@
+Relatório de pacote
+
+-----------------------------------------------------------------------------
+Documento:
+Nome: DioramaI-Mapa3-Final.ai
+Modo de cor: Cor RGB
+Perfil de cor: sRGB IEC61966-2.1
+Unidades da régua: centímetros
+Dimensões da prancheta: 54,0103 cm x 25,9997 cm
+Mostrar imagens no modo de contorno: DESATIVADO
+Realçar fontes substituídas: DESATIVADO
+Realçar glifos substituídos: DESATIVADO
+Preservar capacidade de edição do texto
+Simular papel colorido: DESATIVADO
+
+-----------------------------------------------------------------------------
+Objetos de cor especial:
+
+-----------------------------------------------------------------------------
+Fontes ausentes:NENHUM
+
+-----------------------------------------------------------------------------
+Fontes protegidas que não foram empacotadas:
+Fira Sans Book (Fontes da Adobe)
+
+-----------------------------------------------------------------------------
+Fontes:
+Zilla Slab Bold (TrueType)
+Zilla Slab Medium (TrueType)
+
+-----------------------------------------------------------------------------
+Fontes incorporadas:
+NENHUM
+
+-----------------------------------------------------------------------------
+Vínculos ausentes:
+NENHUM
+
+-----------------------------------------------------------------------------
+Imagens vinculadas:
+NENHUM

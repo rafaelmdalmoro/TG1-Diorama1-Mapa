@@ -1,0 +1,39 @@
+Relatório de pacote
+
+-----------------------------------------------------------------------------
+Documento:
+Nome: DioramaI-Mapa2-Final.ai
+Modo de cor: Cor RGB
+Perfil de cor: sRGB IEC61966-2.1
+Unidades da régua: milímetros
+Dimensões da prancheta: 542,7278 mm x 260,6111 mm
+Mostrar imagens no modo de contorno: DESATIVADO
+Realçar fontes substituídas: DESATIVADO
+Realçar glifos substituídos: DESATIVADO
+Preservar capacidade de edição do texto
+Simular papel colorido: DESATIVADO
+
+-----------------------------------------------------------------------------
+Objetos de cor especial:
+
+-----------------------------------------------------------------------------
+Fontes ausentes:NENHUM
+
+-----------------------------------------------------------------------------
+Fontes protegidas que não foram empacotadas:NENHUM
+
+-----------------------------------------------------------------------------
+Fontes:
+NENHUM
+
+-----------------------------------------------------------------------------
+Fontes incorporadas:
+NENHUM
+
+-----------------------------------------------------------------------------
+Vínculos ausentes:
+NENHUM
+
+-----------------------------------------------------------------------------
+Imagens vinculadas:
+NENHUM
